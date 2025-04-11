@@ -71,5 +71,5 @@ $$
 
 ---
 Young不等式
-14783798480
+
 $若 a,b\ge0,p,q>0且\frac{1}{p}+\frac{1}{q}=1$,有$ab\le \frac{a^p}{p}+\frac{b^q}{q}$
