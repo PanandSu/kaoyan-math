@@ -60,3 +60,49 @@ $$
 
 ---
 
+$$
+\begin{align}
+& p,q\to sinx,cosx \\
+& pdp+qdq=0
+\end{align}
+$$
+
+---
+
+$$
+\begin{align}
+& p,q\to secx,tanx \\
+& pdp=qdq
+\end{align}
+$$
+
+---
+
+$$
+\begin{align}
+& p,q\to \sqrt{x-a}+\sqrt{b-x},\sqrt{x-a}-\sqrt{b-x} \\
+& pdp=qdq=0 \\
+& pq=2x-a-b \\
+\end{align}
+$$
+
+---
+
+$$
+\begin{align}
+& p,q\to asinx+bcosx,acosx-bsinx \\
+& p^2+q^2=a^2+b^2 \\
+& pdp+qdp=0 \\
+& \frac{dp}{q}=dx=-\frac{dq}{p}  
+\end{align}
+$$
+
+---
+
+$$
+\begin{align}
+& p,q\to x+\sqrt{1-x^2},x-\sqrt{1-x^2} \\
+& p^2+q^2=2 \\
+& pdp+qdq=0
+\end{align}
+$$
