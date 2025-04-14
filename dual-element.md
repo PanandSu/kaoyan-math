@@ -33,7 +33,7 @@ $$
 #### 第三公式
 
 $$
-\int ydx=\frac{1}{2} xy+\frac{1}{2}\frac{1}{y^2\pm x^2}\int \frac{dx}{y}
+\int ydx=\frac{1}{2} xy+\frac{1}{2}(y^2\pm x^2)\int \frac{dx}{y}
 $$
 
 ---
