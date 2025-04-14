@@ -38,10 +38,15 @@ $$
 
 ### 常用双元
 
+1. 对勾三元
+
 $$
 \begin{align}
-& p,q,r=x+\frac{a}{x},x-\frac{a}{x},\sqrt{x^2+\frac{a^2}{x^2}+b} \\
+& p,q,r \to x+\frac{a}{x},x-\frac{a}{x},\sqrt{x^2+\frac{a^2}{x^2}+b} \\
 & pdp=qdq=rdr \\
-& x=\frac{p+q}{2}
+& x=\frac{p+q}{2} \\
+& \frac{dp}{q}=\frac{dx}{x}=\frac{dq}{p} \\
+& \frac{p^2+q^2}{2}=x^2+\frac{a^2}{x^2} \\
+& pq=x^2-\frac{a^2}{x^2}
 \end{align}
 $$
