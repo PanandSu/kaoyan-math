@@ -38,3 +38,10 @@ $$
 
 ### 常用双元
 
+$$
+\begin{align}
+& p,q,r=x+\frac{a}{x},x-\frac{a}{x},\sqrt{x^2+\frac{a^2}{x^2}+b} \\
+& pdp=qdq=rdr \\
+& x=\frac{p+q}{2}
+\end{align}
+$$
